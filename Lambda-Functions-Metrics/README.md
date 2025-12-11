@@ -1,6 +1,8 @@
 # ⚡ AWS Lambda Summary  
 ### *Metrics • Duration • Memory • Cost Optimisation*  
 
+
+![Alt Text](900x500_Lambda_Functions _Metrics _WATERMARK_lc.jpg)
 ---
 
 ## 🧩 **1. Key Lambda Metrics**
