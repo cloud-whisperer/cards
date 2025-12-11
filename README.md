@@ -2,7 +2,7 @@
 ---
 ## 📚 Curated AWS Learning Summary
 
-A carefully selected collection of AWS educational resources designed to elevate your cloud mastery. These materials focus on **practical best practices**, **hidden gems**, and **expert guidance** to strengthen your understanding of:
+A carefully selected collection of AWS bite-sized educational content designed to elevate your cloud mastery. These materials focus on **practical best practices**, **hidden gems**, and **expert guidance** to strengthen your understanding of:
 
 ### 💸 Cost-Optimisation  
 - Identify and eliminate waste  
