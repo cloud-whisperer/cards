@@ -1,6 +1,6 @@
-# 🗃️ cards
+ # 🗃️ cards
 ---
-## 📚 Curated AWS Learning Summary
+## 📚 Curated AWS Card Library
 
 A carefully selected collection of AWS bite-sized educational content designed to elevate your cloud mastery. These materials focus on **practical best practices**, **hidden gems**, and **expert guidance** to strengthen your understanding of:
 
