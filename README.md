@@ -1,2 +1,2 @@
-# cards
+# 🗃️ cards
 Helpful AWS educational content.
